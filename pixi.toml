@@ -7,7 +7,7 @@ version = "0.1.0"
 
 [tasks]
 
-[tasks.jupyter]
+[tasks.lab]
 description = "Start Jupyter Lab IDE"
 cmd = "jupyter lab --no-browser"
 
